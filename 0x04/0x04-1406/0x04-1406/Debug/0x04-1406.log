@@ -1,0 +1,4 @@
+﻿  문제.c
+d:\barkingdog-alrorithm\barkingdog-algorithm\0x04\0x04-1406\0x04-1406\문제.c(54): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\barkingdog-alrorithm\barkingdog-algorithm\0x04\0x04-1406\0x04-1406\문제.c(87): warning C4047: '=': 'char'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+  0x04-1406.vcxproj -> D:\barkingdog-alrorithm\barkingdog-algorithm\0x04\0x04-1406\Debug\0x04-1406.exe
