@@ -21,7 +21,7 @@ int exist[2000001];
 	int tmp;
 	int start = 0;
 	int end = s-1;
-	
+
 	for (int i = 0; i < s; i++) {
 		for (int j = 0; j < s - 1; j++) {
 			if (arr[j] > arr[j+1]) {
@@ -53,7 +53,7 @@ int countPair(int x, int s) {
 	int count = 0;
 	for (int i = 0; i < s; i++) {
 		if (x - arr[i] > 0 && exist[x - arr[i]]) count++;
-		exist[arr[i]]=1;
+		exist[arr[i]] = 1;
 	}
 	return count;
 }
