@@ -1,3 +1,6 @@
+#시간초과
+#야메 연결리스트
+
 pre = [-1 for i in range(600005)]
 nxt = [-1 for i in range(600005)]
 dat = [-1 for i in range(600005)]
